@@ -1,9 +1,9 @@
 # Obstacle-Game
 Move a Cube without Touching the Obstacles Like Walls &amp; Spinner.
 ## Images
-<img src="https://user-images.githubusercontent.com/50129883/126026816-43cff967-874b-4262-9477-f5a4d1756283.jpg" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/50129883/126026829-d1080af4-41cb-47e4-839d-d5a67b28c0b7.jpg" width="100" height="100">
-<img src="https://user-images.githubusercontent.com/50129883/126026846-7cdcbcd4-b9c8-44a1-84ec-7a80911708f8.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/50129883/126026816-43cff967-874b-4262-9477-f5a4d1756283.jpg" width="500" height="100">
+<img src="https://user-images.githubusercontent.com/50129883/126026829-d1080af4-41cb-47e4-839d-d5a67b28c0b7.jpg" width="500" height="100">
+<img src="https://user-images.githubusercontent.com/50129883/126026846-7cdcbcd4-b9c8-44a1-84ec-7a80911708f8.jpg" width="500" height="100">
 ## Getting Started
 Follow the below instructions to get started with source code:
 1. [Make sure you have all Requirements](#requirements)
