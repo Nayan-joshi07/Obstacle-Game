@@ -1,9 +1,11 @@
 # Obstacle-Game
 Move a Cube without Touching the Obstacles Like Walls &amp; Spinner.
 ## Images
-![UI](https://user-images.githubusercontent.com/50129883/126026721-6fa57d83-e113-472f-bef6-66ad1e39bb98.jpg)
-![Sample Level](https://user-images.githubusercontent.com/50129883/126026777-142ba7a9-11c2-4538-af73-be11dd120997.jpg)
-![Maze Level](https://user-images.githubusercontent.com/50129883/126026757-46948d76-bd73-4afd-a711-654715b91155.jpg)
+<img src="https://user-images.githubusercontent.com/50129883/126026816-43cff967-874b-4262-9477-f5a4d1756283.jpg">
+![UI](https://user-images.githubusercontent.com/50129883/126026816-43cff967-874b-4262-9477-f5a4d1756283.jpg)
+![SampleLevel](https://user-images.githubusercontent.com/50129883/126026829-d1080af4-41cb-47e4-839d-d5a67b28c0b7.jpg)
+![MazeLevel](https://user-images.githubusercontent.com/50129883/126026846-7cdcbcd4-b9c8-44a1-84ec-7a80911708f8.jpg)
+
 
 ## Getting Started
 Follow the below instructions to get started with Red Runner source code:
